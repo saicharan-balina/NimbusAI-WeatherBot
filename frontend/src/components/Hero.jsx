@@ -91,7 +91,7 @@ const Hero = () => {
         setError(
             error.response?.status === 404 
                 ? "Location not found. Please check the city name and try again."
-                : "Error fetching weather data. Please try again."
+                : "Error fetching weather data.Please try again later."
         );
     }
 };
