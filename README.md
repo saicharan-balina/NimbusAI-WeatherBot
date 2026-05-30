@@ -53,7 +53,7 @@ Nimbus AI isn’t just a chatbot—it’s a **smart conversational AI** designed
 
 ### 🌍 **Core Technologies**
 
-- **React 19** – Frontend framework
+- **React ** – Frontend framework
 - **Vite** – Fast development environment
 - **Tailwind CSS 4.0** – Modern UI framework
 
