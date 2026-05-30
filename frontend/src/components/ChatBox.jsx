@@ -42,7 +42,7 @@ const ChatBox = ({ onClose }) => {
   const messagesEndRef = useRef(null);
   
   const [messages, setMessages] = useState([
-    { text: "👋 Hello! I'm Nimbus AI, your intelligent weather assistant. How may I assist you today?", sender: 'bot', timestamp: new Date() }
+    { text: "👋 Hello! I'm Nimbus AI, your intelligent weather assistant. How may I assist you today? ", sender: 'bot', timestamp: new Date() }
   ]);
   const [input, setInput] = useState('');
   const [isTyping, setIsTyping] = useState(false);
