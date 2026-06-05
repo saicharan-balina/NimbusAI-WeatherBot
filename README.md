@@ -10,7 +10,7 @@ A next-gen **AI-powered weather assistant** that provides real-time weather insi
 - **Interactive Weather Visualizations** – Stunning **charts and graphs** powered by Chart.js & Recharts.
 - **Automated Weather Alerts** – Get **email notifications** for extreme weather conditions.
 - **Seamless UI & UX** – Built with **Tailwind CSS** and enhanced by **Framer Motion** animations.
-- **Secure & Scalable** – Uses modern development tools and best practices.
+- **Secure & Scalable** – Uses  modern development tools and best practices.
 
 ## 📌 Pages in Nimbus AI
 
@@ -133,7 +133,7 @@ Before running the project, ensure you have:
 
 ## 📡 Weather Monitoring & Alerts
 
-Nimbus AI automatically checks weather conditions daily at **8:00 AM** for all subscribed users and sends **email alerts** if extreme weather conditions are detected.
+Nimbus AI automatically checks weather conditions daily at **8:00 AM** or defined time  for all subscribed users and sends **email alerts** if extreme weather conditions are detected.
 
 ### ⏳ **How It Works**
 
